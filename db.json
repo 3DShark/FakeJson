@@ -17,6 +17,6 @@
      value: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi', checked: false },
 
     { id: 7 , label: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi', checked: false },
+     value: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi', checked: false }
   ];
 }
