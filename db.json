@@ -1,22 +1,6 @@
 {
   "hospital": [
-     { id: 1 , label: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi', checked: false },
-
-    { id: 2 , label: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi', checked: false },
-
-    { id: 3 , label: 'Baltalimanı Kemik Hastalıkları Eğitim ve Araştırma Hastanesi',
-     value: 'Baltalimanı Kemik Hastalıkları Eğitim ve Araştırma Hastanesi', checked: false },
-     { id: 4 , label: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi', checked: false },
-
-    { id: 5 , label: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi', checked: false },
-     { id: 6 , label: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi', checked: false },
-
-    { id: 7 , label: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi',
-     value: 'İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi', checked: false }
+     { "id": 1 , "label": "İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi",
+     "value": "İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi", "checked": false }
   ];
 }
