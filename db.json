@@ -3,6 +3,10 @@
      { "id": 1 , "city": "İstanbul","hospitalName": "İstanbul Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi", "toplam_sayi":653, "gelen_sayi":273 ,"hatali_sayi":32,"bekleyen_sayi":102 },
     { "id": 2 , "city": "İzmir","hospitalName": "Baltalimanı Kemik Hastalıkları Eğitim ve Araştırma Hastanesi", "toplam_sayi":3213, "gelen_sayi":1532 ,"hatali_sayi":23,"bekleyen_sayi":55  },
     { "id": 3 , "city": "Şırnak","hospitalName": "İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457},
-    { "id": 4 , "city": "Muğla","hospitalName": "Muğla Sıtkı Koçman Hastanesi" , "toplam_sayi":1000, "gelen_sayi":992 ,"hatali_sayi":13,"bekleyen_sayi":232   }
+        { "id": 4 , "city": "Şırnak","hospitalName": "İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457},
+        { "id": 5 , "city": "Şırnak","hospitalName": "İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457},
+        { "id": 6 , "city": "İzmir","hospitalName": "İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457},
+        { "id": 7 , "city": "İstanbul","hospitalName": "İstanbul Okmeydanı Eğitim ve Araştırma Hastanesi", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457},
+    { "id": 8 , "city": "Muğla","hospitalName": "Muğla Sıtkı Koçman Hastanesi" , "toplam_sayi":1000, "gelen_sayi":992 ,"hatali_sayi":13,"bekleyen_sayi":232   }
   ]
 }
