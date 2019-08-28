@@ -1,4 +1,5 @@
- "hospital": [
+{ 
+"hospital": [
      { 
        "id": 1 , 
       "city": "İstanbul",
@@ -150,3 +151,4 @@
        }
     }
   ]
+}
