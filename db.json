@@ -1,5 +1,4 @@
-{
-  "hospital" :
+"hospital" :
 [
   {
     "id": 1,
@@ -24,6 +23,5 @@
       "bs": "harness real-time e-markets"
     }
   },
-  
 ]
-}
+
