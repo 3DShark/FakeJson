@@ -1,5 +1,4 @@
 
-"hospital": [
      { 
        "id": 1 , 
       "city": "İstanbul",
@@ -150,5 +149,5 @@
         "denenmemis_sayi": 463
        },
     }
-  ]
+
 
