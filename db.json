@@ -11,7 +11,7 @@
           "kodu": 101,
           "toplam_sayi": 123,
           "toplam_hatali_sayi": 300,
-          "denenmemis_sayi": 463
+          "denenmemis_sayi": 463 ,
      }
        },
     {
@@ -69,7 +69,7 @@
             "kodu": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
-            "denenmemis_sayi": 463
+            "denenmemis_sayi": 463 ,
        }
         },
         { 
