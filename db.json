@@ -1,41 +1,86 @@
 {
   "hospital": [
-     { "id": 1 , "city": "İstanbul","hospitalName": "İstanbul1", "toplam_sayi":653, "gelen_sayi":273 ,"hatali_sayi":32,"bekleyen_sayi":102 , "paket_sayilari": {
+     { "id": 1 , 
+      "city": "İstanbul",
+      "hospitalName": "İstanbul1",
+      "toplam_sayi":653,
+      "gelen_sayi":273 ,
+      "hatali_sayi":32,
+      "bekleyen_sayi":102 ,
+      "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
+      "denenmemis_sayi": 463
      }
        },
-    { "id": 2 , "city": "İzmir","hospitalName": "İzmir1", "toplam_sayi":3213, "gelen_sayi":1532 ,"hatali_sayi":23,"bekleyen_sayi":55 , "paket_sayilari": {
+    { "id": 2 , 
+     "city": "İzmir",
+     "hospitalName": "İzmir1",
+     "toplam_sayi":3213, 
+     "gelen_sayi":1532 ,
+     "hatali_sayi":23,
+     "bekleyen_sayi":55 ,
+     "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
-       }  },
-    { "id": 3 , "city": "Şırnak","hospitalName": "Şırnak1", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
+       } 
+    },
+    { "id": 3 ,
+     "city": "Şırnak",
+     "hospitalName": "Şırnak1",
+     "toplam_sayi":754,
+     "gelen_sayi":443 ,
+     "hatali_sayi":132,
+     "bekleyen_sayi":457 ,
+     "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
        } },
-        { "id": 4 , "city": "Şırnak","hospitalName": "Şırnak2", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
+        {
+       "id": 4 , 
+       "city":"Şırnak",
+       "hospitalName": "Şırnak2",
+       "toplam_sayi":754, 
+       "gelen_sayi":443 ,
+       "hatali_sayi":132,
+       "bekleyen_sayi":457 ,
+       "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
        } },
-        { "id": 5 , "city": "Şırnak","hospitalName": "Şırnak3", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
+        { "id": 5 ,
+         "city": "Şırnak",
+         "hospitalName": "Şırnak3",
+         "toplam_sayi":754,
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457 , 
+         "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
-       } },
-        { "id": 6 , "city": "İzmir","hospitalName": "İzmir2", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 "paket_sayilari": {
+      "denenmemis_sayi": 463
+       }
+        },
+        { "id": 6 , 
+         "city": "İzmir",
+         "hospitalName": "İzmir2", 
+         "toplam_sayi":754,
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457 ,
+         "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
+      "denenmemis_sayi": 463
        } },
         { "id": 7 , "city": "İstanbul","hospitalName": "İstanbul2", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
       "kodu": 101,
@@ -43,41 +88,25 @@
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
        } },
-        { "id": 8 , "city": "Şırnak","hospitalName": "Şırnak4", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
-      "kodu": 101,
-      "toplam_sayi": 123,
-      "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
-       }},
-        { "id": 9 , "city": "Şırnak","hospitalName": "Şırnak5", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
-      "kodu": 101,
-      "toplam_sayi": 123,
-      "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
-       }},
-        { "id": 10 , "city": "Şırnak","hospitalName": "Şırnak6", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
-      "kodu": 101,
-      "toplam_sayi": 123,
-      "toplam_hatali_sayi": 300,
-      "denenmemis_sayi": 463,
-       }},
-        { "id": 11 , "city": "Muğla","hospitalName": "Muğla1", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 "paket_sayilari": {
+        
+        { "id": 8 , "city": "Muğla","hospitalName": "Muğla1", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
        } } , 
-        { "id": 12 , "city": "Muğla","hospitalName": "Muğla2", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
+        { "id": 9 , "city": "Muğla","hospitalName": "Muğla2", "toplam_sayi":754, "gelen_sayi":443 ,"hatali_sayi":132,"bekleyen_sayi":457 , "paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
        }},
-    { "id": 13 , "city": "Muğla","hospitalName": "Muğla3" , "toplam_sayi":1000, "gelen_sayi":992 ,"hatali_sayi":13,"bekleyen_sayi":232  ,"paket_sayilari": {
+    { "id": 10 , "city": "Muğla","hospitalName": "Muğla3" , "toplam_sayi":1000, "gelen_sayi":992 ,"hatali_sayi":13,"bekleyen_sayi":232  ,"paket_sayilari": {
       "kodu": 101,
       "toplam_sayi": 123,
       "toplam_hatali_sayi": 300,
       "denenmemis_sayi": 463,
-       } }
+       }
+    },
   ]
 }
