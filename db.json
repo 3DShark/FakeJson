@@ -9,7 +9,7 @@
       "hatali_sayi":32,
       "bekleyen_sayi":102 ,
       "paket_sayilari": {
-          "kodu": 101,
+          "kod": 101,
           "toplam_sayi": 123,
           "toplam_hatali_sayi": 300,
           "denenmemis_sayi": 463
@@ -24,7 +24,7 @@
      "hatali_sayi":23,
      "bekleyen_sayi":55 ,
      "paket_sayilari": {
-        "kodu": 101,
+        "kod": 101,
         "toplam_sayi": 123,
         "toplam_hatali_sayi": 300,
         "denenmemis_sayi": 463
@@ -39,7 +39,7 @@
      "hatali_sayi":132,
      "bekleyen_sayi":457 ,
      "paket_sayilari": {
-        "kodu": 101,
+        "kod": 101,
         "toplam_sayi": 123,
         "toplam_hatali_sayi": 300,
         "denenmemis_sayi": 463
@@ -54,7 +54,7 @@
        "hatali_sayi":132,
        "bekleyen_sayi":457 ,
        "paket_sayilari": {
-          "kodu": 101,
+          "kod": 101,
           "toplam_sayi": 123,
           "toplam_hatali_sayi": 300,
           "denenmemis_sayi": 463
@@ -69,7 +69,7 @@
          "hatali_sayi":132,
          "bekleyen_sayi":457 , 
          "paket_sayilari": {
-            "kodu": 101,
+            "kod": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
@@ -84,7 +84,7 @@
          "hatali_sayi":132,
          "bekleyen_sayi":457 ,
          "paket_sayilari": {
-            "kodu": 101,
+            "kod": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
@@ -99,7 +99,7 @@
          "hatali_sayi":132,
          "bekleyen_sayi":457 ,
          "paket_sayilari": {
-            "kodu": 101,
+            "kod": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
@@ -114,7 +114,7 @@
          "hatali_sayi":132,
          "bekleyen_sayi":457,
          "paket_sayilari": {
-            "kodu": 101,
+            "kod": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
@@ -129,7 +129,7 @@
          "hatali_sayi":132,
          "bekleyen_sayi":457,
          "paket_sayilari": {
-            "kodu": 101,
+            "kod": 101,
             "toplam_sayi": 123,
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
@@ -144,7 +144,7 @@
      "hatali_sayi":13,
      "bekleyen_sayi":232,
      "paket_sayilari": {
-        "kodu": 101,
+        "kod": 101,
         "toplam_sayi": 123,
         "toplam_hatali_sayi": 300,
         "denenmemis_sayi": 463
