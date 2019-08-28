@@ -1,31 +1,164 @@
 {
   "hospital":
-[
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+ [
+     { 
+       "id": 1 , 
+      "city": "İstanbul",
+      "hospitalName": "İstanbul1",
+      "toplam_sayi":653,
+      "gelen_sayi":273 ,
+      "hatali_sayi":32,
+      "bekleyen_sayi":102,
+      "paket_sayilari":  {
+          "kod": 101,
+          "toplam_sayi": 123,
+          "toplam_hatali_sayi": 300,
+          "denenmemis_sayi": 463
+     }
+         
+       },
+    {
+      "id": 2 , 
+     "city": "İzmir",
+     "hospitalName": "İzmir1",
+     "toplam_sayi":3213, 
+     "gelen_sayi":1532 ,
+     "hatali_sayi":23,
+     "bekleyen_sayi":55 ,
+     "paket_sayilari": {
+        "kod": 101,
+        "toplam_sayi": 123,
+        "toplam_hatali_sayi": 300,
+        "denenmemis_sayi": 463
+       }
+                       
+    },
+    { 
+      "id": 3 ,
+     "city": "Şırnak",
+     "hospitalName": "Şırnak1",
+     "toplam_sayi":754,
+     "gelen_sayi":443 ,
+     "hatali_sayi":132,
+     "bekleyen_sayi":457 ,
+     "paket_sayilari":  {
+        "kod": 101,
+        "toplam_sayi": 123,
+        "toplam_hatali_sayi": 300,
+        "denenmemis_sayi": 463
+       }
+                        
+    },
+        {
+       "id": 4 , 
+       "city":"Şırnak",
+       "hospitalName": "Şırnak2",
+       "toplam_sayi":754, 
+       "gelen_sayi":443 ,
+       "hatali_sayi":132,
+       "bekleyen_sayi":457 ,
+       "paket_sayilari": {
+          "kod": 101,
+          "toplam_sayi": 123,
+          "toplam_hatali_sayi": 300,
+          "denenmemis_sayi": 463
+       }
+                        
+        },
+        { 
+          "id": 5 ,
+         "city": "Şırnak",
+         "hospitalName": "Şırnak3",
+         "toplam_sayi":754,
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457 , 
+         "paket_sayilari":  {
+            "kod": 101,
+            "toplam_sayi": 123,
+            "toplam_hatali_sayi": 300,
+            "denenmemis_sayi": 463
+       }
+                        
+        },
+        { 
+          "id": 6 , 
+         "city": "İzmir",
+         "hospitalName": "İzmir2", 
+         "toplam_sayi":754,
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457 ,
+         "paket_sayilari":  {
+            "kod": 101,
+            "toplam_sayi": 123,
+            "toplam_hatali_sayi": 300,
+            "denenmemis_sayi": 463
+       }
+                        
+        },
+        { 
+          "id": 7 ,
+         "city": "İstanbul",
+         "hospitalName": "İstanbul2",
+         "toplam_sayi":754, 
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457 ,
+         "paket_sayilari":  {
+            "kod": 101,
+            "toplam_sayi": 123,
+            "toplam_hatali_sayi": 300,
+            "denenmemis_sayi": 463
+       }
+                        
+        },
+        {
+          "id": 8 ,
+         "city": "Muğla",
+         "hospitalName": "Muğla1", 
+         "toplam_sayi":754,
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457,
+         "paket_sayilari":  {
+            "kod": 101,
+            "toplam_sayi": 123,
+            "toplam_hatali_sayi": 300,
+            "denenmemis_sayi": 463
+       }
+                        
+        },
+        { 
+          "id": 9,
+         "city": "Muğla",
+         "hospitalName": "Muğla2", 
+         "toplam_sayi":754, 
+         "gelen_sayi":443 ,
+         "hatali_sayi":132,
+         "bekleyen_sayi":457,
+         "paket_sayilari":  {
+            "kod": 101,
+            "toplam_sayi": 123,
+            "toplam_hatali_sayi": 300,
+            "denenmemis_sayi": 463
+       }        
+      },
+    {
+     "id": 10 ,
+     "city": "Muğla",
+     "hospitalName": "Muğla3", 
+     "toplam_sayi":1000,
+     "gelen_sayi":992 ,
+     "hatali_sayi":13,
+     "bekleyen_sayi":232,
+     "paket_sayilari":  {
+        "kod": 101,
+        "toplam_sayi": 123,
+        "toplam_hatali_sayi": 300,
+        "denenmemis_sayi": 463
+       }
+                     
     }
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
-  }
 ]
 }
