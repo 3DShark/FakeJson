@@ -1,16 +1,23 @@
-{ "hospital" :
 [
+{
+"id":1,
+"adi": "A Hastanesi",
+"toplam_sayi":1000,
+"toplam_hatalı_sayi": 300,
+"toplam_denenmemis_sayi": 700,
+"paket_sayilari": [ 
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-    }
+    "kodu":101,
+    "toplam_sayi":2300,
+    "hatali_sayi":123,
+    "denenmemis_sayi":123
+  },
+  {
+    "kodu":102,
+   "toplam_sayi":2345,
+   "hatali_sayi":123,
+   "denenmemis_sayi":123
   }
 ]
 }
+]
