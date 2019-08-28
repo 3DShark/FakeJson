@@ -13,7 +13,7 @@
           "toplam_hatali_sayi": 300,
           "denenmemis_sayi": 463
      }
-       }
+       },
     {
       "id": 2 , 
      "city": "İzmir",
@@ -28,7 +28,7 @@
         "toplam_hatali_sayi": 300,
         "denenmemis_sayi": 463
        }
-    }
+    },
     { 
       "id": 3 ,
      "city": "Şırnak",
@@ -42,8 +42,8 @@
         "toplam_sayi": 123,
         "toplam_hatali_sayi": 300,
         "denenmemis_sayi": 463
-       },
-    }
+       }
+    },
         {
        "id": 4 , 
        "city":"Şırnak",
@@ -58,7 +58,7 @@
           "toplam_hatali_sayi": 300,
           "denenmemis_sayi": 463
        }
-        }
+        },
         { 
           "id": 5 ,
          "city": "Şırnak",
@@ -73,7 +73,7 @@
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
        }
-        }
+        },
         { 
           "id": 6 , 
          "city": "İzmir",
@@ -88,7 +88,7 @@
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
        }
-        }
+        },
         { 
           "id": 7 ,
          "city": "İstanbul",
@@ -103,7 +103,7 @@
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
        }
-        }
+        },
         {
           "id": 8 ,
          "city": "Muğla",
@@ -118,7 +118,7 @@
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
        }
-        }
+        },
         { 
           "id": 9,
          "city": "Muğla",
@@ -133,7 +133,7 @@
             "toplam_hatali_sayi": 300,
             "denenmemis_sayi": 463
        }
-      }
+      },
     {
      "id": 10 ,
      "city": "Muğla",
