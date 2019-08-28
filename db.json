@@ -2,7 +2,7 @@
 "hospital": [
      { 
        "id": 1 , 
-      "city": "İstanbul",
+      "city: "İstanbul",
       "hospitalName": "İstanbul1",
       "toplam_sayi":653,
       "gelen_sayi":273 ,
